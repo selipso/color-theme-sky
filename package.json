@@ -1,0 +1,28 @@
+{
+	"name": "thakker-light-sky-hc",
+	"displayName": "Thakker Light Sky HC",
+	"description": "A high contrast light theme for readable code on a light background",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Thakker Light Sky Theme High Contrast",
+				"uiTheme": "vs",
+				"path": "./themes/Thakker Light Sky Theme High Contrast-color-theme.json"
+			}
+		]
+	},
+	"publisher": "thakkerOSS",
+	"__metadata": {
+		"id": "2615eb02-8835-4802-ac88-0b3bc117666e",
+		"publisherDisplayName": "Thakker OSS",
+		"publisherId": "9c53488f-1a67-483f-a3ea-c4edf216cb23"
+	}
+}
