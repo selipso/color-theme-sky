@@ -2,7 +2,7 @@
 	"name": "thakker-light-sky-hc",
 	"displayName": "Thakker Light Sky HC",
 	"description": "A high contrast light theme for readable code on a light background",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
