@@ -10,6 +10,7 @@
 		"Themes",
 		"Other"
 	],
+	"icon": "skygradient.png",
 	"contributes": {
 		"themes": [
 			{
